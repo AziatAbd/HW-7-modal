@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW-7-modal/static/css/main.e6c13ad2.css",
+    "main.js": "/HW-7-modal/static/js/main.05242ac2.js",
+    "index.html": "/HW-7-modal/index.html",
+    "main.e6c13ad2.css.map": "/HW-7-modal/static/css/main.e6c13ad2.css.map",
+    "main.05242ac2.js.map": "/HW-7-modal/static/js/main.05242ac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.05242ac2.js"
+  ]
+}
